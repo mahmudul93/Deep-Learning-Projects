@@ -22,8 +22,6 @@ Each project includes:
 - NumPy, Pandas, Matplotlib
 - Scikit-learn
 
-## License
-This repository is licensed under the MIT License.
 
 ---
 
